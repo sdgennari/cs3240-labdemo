@@ -1,4 +1,4 @@
-from helper import greeting
+from new_file import joint_greeting
 
 if __name__ == '__main__':
-	greeting("hello")
+	joint_greeting('Hello', 'world')
